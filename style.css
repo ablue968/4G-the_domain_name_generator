@@ -1,0 +1,11 @@
+.title{
+    margin: auto;
+    width: 1000px;
+    font-family: "Permanent Marker", Courier;
+    color: black;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://images2.alphacoders.com/100/thumb-1920-1003880.png);
+    background-size: cover;
+}
